@@ -10,25 +10,7 @@
       "volume": "",
       "last_updated": "1639793349",
       "groups": {
-        "Responders": [
-          "https://i.imgur.com/9PpGZeY.png",
-          "https://i.imgur.com/gCzGXdk.png",
-          "https://i.imgur.com/Wf1zMWH.png",
-          "https://i.imgur.com/YYXxZqi.png",
-          "https://i.imgur.com/ekp8jBU.png",
-          "https://i.imgur.com/pHG4Iba.png",
-          "https://i.imgur.com/EVL6b5z.png",
-          "https://i.imgur.com/YcKlpgL.png",
-          "https://i.imgur.com/hyUX5Dt.png",
-          "https://i.imgur.com/5zeKeBU.png",
-          "https://i.imgur.com/FQ13Lnb.png",
-          "https://i.imgur.com/QlO0UDl.png",
-          "https://i.imgur.com/ZQQJtxo.png",
-          "https://i.imgur.com/WZ26KzK.png",
-          "https://i.imgur.com/173Fs0G.png",
-          "https://i.imgur.com/zPAAVkc.png",
-          "https://i.imgur.com/JV1q6V5.png"
-        ]
+        "Responders": "/proxy/api/imgur/chapter/gdptrIM"
       }
     }
   }
