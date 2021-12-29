@@ -7,7 +7,7 @@
   "chapters": {
     "1035": {
       "title": "Zoro vs King",
-      "volume": "102",
+      "volume": "",
       "last_updated": "1639793349",
       "groups": {
         "Responders": "/proxy/api/imgur/chapter/gdptrIM"
@@ -15,10 +15,10 @@
     },
     "1036": {
       "title": "Finding Bushido in Death",
-      "volume": "102",
-      "last_updated": "1640796111",
+      "volume": "",
+      "last_updated": "1640796039",
       "groups": {
-        "Responders": "https://imgur.com/a/UFXJ9Wf"
+        "Responders": "/proxy/api/imgur/chapter/UFXJ9Wf"
       }
     }
   }
